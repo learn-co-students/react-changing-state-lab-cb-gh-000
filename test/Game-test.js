@@ -6,10 +6,6 @@ import Board from '../components/Board';
 import Game from '../components/Game';
 
 describe('<Game />', function () {
-  it('should have .game class', function () {
-    const wrapper = shallow(<Game />);
-    expect(wrapper.hasClass('game')).toBe(true);
-  });
 
   it('should have `board` state', function () {
     const wrapper = shallow(<Game />);
