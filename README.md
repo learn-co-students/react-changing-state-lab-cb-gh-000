@@ -43,7 +43,7 @@ The board component is a pure component. It consists of exactly nine `Field`s an
 
 The status component can be seen in the above screenshot as the gray box. It notifies the user about the current state of the game (Tie / X won / O won).
 
-## Resources
+## Resourcfes
 
 - [React: Working with the Browser](https://facebook.github.io/react/docs/working-with-the-browser.html)
 
