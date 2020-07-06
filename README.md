@@ -10,7 +10,7 @@ One upon a time, long before Virtual Reality, Pokemon Go and World of Warcraft, 
 
 ![TicTacToe](https://s3.amazonaws.com/learn-verified/react-changing-state-lab-TicTacToe.png)
 
-Tic-tac-toe is a really simple paper-and-pencil game for two players. Each turn, one of the players (**X** or **O**) marks a space in a 3x3 grid. The first player to place three marks in a vertical, horizontal, or diagonal row wins.
+Tic-tac-toe is a really simple paper-and-pencil . game for two players. Each turn, one of the players (**X** or **O**) marks a space in a 3x3 grid. The first player to place three marks in a vertical, horizontal, or diagonal row wins.
 
 In this lab we're going to implement such a game. Our app should allow us to place **X**s and **O**s on the playing field. Once a player succeeds by placing three of their marks in a row, an alert should appear and the playing field should be reset.
 
